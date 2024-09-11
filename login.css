@@ -1,31 +1,31 @@
 
     body {
-        font-family: Arial, sans-serif; /* Sets a clean, readable font */
-        background-color: #abaca5d9; /* A dark background color to match the form's background */
-        color: #d3d3d3; /* Light gray text color for readability */
-        margin: 0; /* Remove default margin */
-        padding: 0; /* Remove default padding */
-        display: flex; /* Center content horizontally and vertically */
-        justify-content: center; /* Align items to the center horizontally */
-        align-items: center; /* Align items to the center vertically */
-        height: 100vh; /* Full viewport height */
+        font-family: Arial, sans-serif; 
+        background-color: #abaca5d9; 
+        color: #d3d3d3; 
+        margin: 0; 
+        padding: 0; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        height: 100vh; 
       }
       
       h1, h2, h3, h4, h5, h6 {
-        margin: 0; /* Remove default margin from headings */
+        margin: 0;
       }
       
       a {
-        text-decoration: none; /* Remove underline from links */
-        color: inherit; /* Inherit color from parent */
+        text-decoration: none;
+        color: inherit; 
       }
       
       input, button {
-        font-family: inherit; /* Inherit font family from body */
+        font-family: inherit; 
       }
       
       input:focus, button:focus {
-        outline: none; /* Remove default focus outline */
+        outline: none; 
       }
       
 
