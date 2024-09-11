@@ -138,3 +138,22 @@
     background-color: red;
     color: white;
   }
+.role-select {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5em;
+    border-radius: 25px;
+    padding: 0.6em;
+    background-color: #171717;
+    color: white;
+    box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+}
+
+.role-select select {
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 1em;
+}
