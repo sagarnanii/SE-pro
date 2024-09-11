@@ -154,6 +154,7 @@
 .role-select select {
     background-color: #171717;
     border: none;
+    border-radius: 5px;
     outline: none;
     color: white;
     font-size: 1em;
