@@ -1,4 +1,5 @@
 
+
     body {
         font-family: Arial, sans-serif; 
         background-color: #abaca5d9; 
@@ -154,6 +155,6 @@
     background: none;
     border: none;
     outline: none;
-    color: white;
+    color: black;
     font-size: 1em;
 }
